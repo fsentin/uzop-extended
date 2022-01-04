@@ -3,7 +3,7 @@ University of Zagreb, Faculty of Electrical Engineering and Computing
 ## Introduction to Data Science Course Project
 ### Malignant and Benign Breast Cancer Classification using Machine Learning Algorithms
 
-##### Fani Sentinella-Jerbić, Matej Čubek, Leon Novački, Fran Hrabar 2021
+##### Fani Sentinella-Jerbić, Matej Čubek, Leon Novački, Fran Hrabar, 2021
 
 
 This project's aim was to replicate and creatively expand a data science themed scientific article using a Jupyter notebook. We replicated the following article:
